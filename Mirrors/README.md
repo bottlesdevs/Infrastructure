@@ -1,6 +1,6 @@
 # Mirrorlist YAML
 ## What is this?
-This is a simple yaml list of our mirror (Hosted by us and not)
+This is a simple yaml list of our mirrors (Hosted by us and not)
 
 ## How did you split the yaml file?
 I splitted the mirror section in seven elements
