@@ -8,10 +8,8 @@ mirrors:
     mirrorIpv6: "2001:bc8:65c:1900::1"
     bottlesOwned: true
     mirrorTier: 1
-    isIpv6: true
   - mirrorName: "eddf-linode"
     mirrorLink: "eddf.mirror.usebottles.com"
-    isIpv6: true
     mirrorIpv4: "194.233.169.173"
     mirrorIpv6: "2a01:7e01::f03c:93ff:fe08:3428"
     bottlesOwned: true
