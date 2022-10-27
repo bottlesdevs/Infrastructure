@@ -6,7 +6,6 @@ This is a simple yaml list of our mirror (Hosted by us and not)
 I splitted the mirror section in seven elements
 - mirrorName: This is our codename for the mirror, usually is the ICAO code for the nearest airport and the hosting provider
 - mirrorLink: This is the subdomain linked to the mirror
-- isIPv6: If the mirror has IPv6 support
 - mirrorIPv4: IPv4 address of the mirror
 - mirrorIPv6: IPv6 address of the mirror
 - bottlesOwned: If the mirror is provided by us (bottles) or provided by a third-party entity (ex: garr)
