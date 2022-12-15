@@ -13,12 +13,6 @@ mirrors:
     mirrorIpv6: "2600:3c04::f03c:93ff:fe76:1c55"
     bottlesOwned: false
     mirrorTier: 2
-  - mirrorName: "cyyz-hyperbit"
-    mirrorLink: "cyyz.mirror.usebottles.com"
-    mirrorIpv4: "172.105.21.20"
-    mirrorIpv6: "2600:3c04::f03c:93ff:fe76:1c55"
-    bottlesOwned: false
-    mirrorTier: 2
   - mirrorName: "Garr-Italy"
     mirrorLink: "bottles.mirror.garr.it"
     mirrorIpv4: "90.147.160.70"
