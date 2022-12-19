@@ -1,0 +1,30 @@
+{
+   "version": 0.1,
+   "latestUpdate": "2022-12-19",
+   "mirrors": [
+      {
+         "mirrorName": "eddf-linode",
+         "mirrorLink": "eddf.mirror.usebottles.com",
+         "mirrorIpv4": "194.233.169.173",
+         "mirrorIpv6": "2a01:7e01::f03c:93ff:fe08:3428",
+         "bottlesOwned": true,
+         "mirrorTier": 1
+      },
+      {
+         "mirrorName": "cyyz-hyperbit",
+         "mirrorLink": "cyyz.mirror.usebottles.com",
+         "mirrorIpv4": "172.105.21.20",
+         "mirrorIpv6": "2600:3c04::f03c:93ff:fe76:1c55",
+         "bottlesOwned": false,
+         "mirrorTier": 2
+      },
+      {
+         "mirrorName": "Garr-Italy",
+         "mirrorLink": "bottles.mirror.garr.it",
+         "mirrorIpv4": "90.147.160.70",
+         "mirrorIpv6": "2001:760:ffff:b6:4:100:0:72",
+         "bottlesOwned": false,
+         "mirrorTier": 2
+      }
+   ]
+}
